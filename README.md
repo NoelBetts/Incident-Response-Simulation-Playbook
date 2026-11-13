@@ -26,3 +26,6 @@ Run ifconfig and find the inet addr on eth0.
 
 Check the address is on the isolated network. ( 3-connectivity-test.png) 
 <img width="708" height="215" alt="Screenshot 2026-11-13 at 11 31 09 AM" src="https://github.com/user-attachments/assets/c60e4b43-8264-44ba-8784-de16c3077c18" />
+
+Installed snort and wireshark in kali
+<img width="651" height="435" alt="Screenshot 2026-11-13 at 11 44 34 AM" src="https://github.com/user-attachments/assets/ac7fd31b-cfa1-4498-a527-b42e736e61b6" />
