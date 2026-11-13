@@ -14,3 +14,6 @@ Ran Ip- a again
 
 Create a notes file and commit it in MAC termial
 <img width="788" height="220" alt="Screenshot 2026-11-13 at 10 22 37 AM" src="https://github.com/user-attachments/assets/a7bfc771-c381-463d-a6c0-c36557e23a83" />
+
+Downloaded Metasploitable 2 ZIP and Unzip it and convert the disk in Terminal
+<img width="1568" height="1338" alt="image" src="https://github.com/user-attachments/assets/b3da38fe-0f17-48b6-bc4e-30bb25f2bb10" />
