@@ -1,0 +1,7 @@
+*.iso
+*.qcow2
+*.vmdk
+*.utm
+*.7z
+*.pcap
+.DS_Store
