@@ -12,3 +12,5 @@ Changing Kali network to host only
 Ran Ip- a again
 <img width="640" height="418" alt="Screenshot 2026-11-13 at 10 00 40 AM" src="https://github.com/user-attachments/assets/11ce27c9-6fc6-4afe-872f-6c11074553ea" />
 
+Create a notes file and commit it in MAC termial
+<img width="788" height="220" alt="Screenshot 2026-11-13 at 10 22 37 AM" src="https://github.com/user-attachments/assets/a7bfc771-c381-463d-a6c0-c36557e23a83" />
