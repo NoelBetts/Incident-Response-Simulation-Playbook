@@ -29,3 +29,8 @@ Check the address is on the isolated network. ( 3-connectivity-test.png)
 
 Installed snort and wireshark in kali
 <img width="651" height="435" alt="Screenshot 2026-11-13 at 11 44 34 AM" src="https://github.com/user-attachments/assets/ac7fd31b-cfa1-4498-a527-b42e736e61b6" />
+
+The Snort version matters, because Snort 2 and Snort 3 use different config files and commands( updating notes file
+
+<img width="799" height="498" alt="image" src="https://github.com/user-attachments/assets/0bee2ca0-657a-4647-a082-8d349b979ecd" />
+
