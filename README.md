@@ -17,3 +17,12 @@ Create a notes file and commit it in MAC termial
 
 Downloaded Metasploitable 2 ZIP and Unzip it and convert the disk in Terminal
 <img width="1568" height="1338" alt="image" src="https://github.com/user-attachments/assets/b3da38fe-0f17-48b6-bc4e-30bb25f2bb10" />
+
+Setting up Metasploitable2 VM
+<img width="896" height="808" alt="Screenshot 2026-11-13 at 11 19 32 AM" src="https://github.com/user-attachments/assets/4d936e70-49e6-4a95-89a0-c7f6439d92fd" />
+
+Run ifconfig and find the inet addr on eth0.
+<img width="819" height="469" alt="Screenshot 2026-11-13 at 11 28 16 AM" src="https://github.com/user-attachments/assets/b48af159-19a2-4642-8896-5384dd4edb82" />
+
+Check the address is on the isolated network. ( 3-connectivity-test.png) 
+<img width="708" height="215" alt="Screenshot 2026-11-13 at 11 31 09 AM" src="https://github.com/user-attachments/assets/c60e4b43-8264-44ba-8784-de16c3077c18" />
